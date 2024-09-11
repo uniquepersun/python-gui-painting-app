@@ -10,10 +10,9 @@ Download the app from the  [releases](https://github.com/uniquepersun/python-gui
 provides a blank canvas and various tools like brush, eraser, color-picker, etc. :rainbow::art:.
 
 
-## Some screenshots for you :)
-- watch it in aciton!
-    - [here]()
-    - [another!]()
+##  screenshot for you :)
+- watch it in action!
+    - [here](https://github.com/user-attachments/assets/289b237d-cd70-4ddd-a7ea-289ca43d6b7e)
 
  
 ## :wink: contact me!! :v::heart:
